@@ -4,7 +4,7 @@ bio:                "CS Sophomore @ NUST"
 description:        "I am currently a 2nd year student of Computer Science at NUST Islamabad. My interests are coding and reading books."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/shafay.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
