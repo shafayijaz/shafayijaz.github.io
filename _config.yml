@@ -5,7 +5,7 @@ description:        "I am currently a 2nd year student of Computer Science at NU
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/shafay.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/back.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://shafayijaz.github.io
